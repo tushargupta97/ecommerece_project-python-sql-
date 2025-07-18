@@ -75,5 +75,7 @@ This project demonstrates how to use Python in combination with SQL to perform e
 ## 📬 Contact
 
 For any queries or feedback, feel free to reach out via email or GitHub.
+
+
 Gmail - guptatushar0907@gmail.com
 Github - https://github.com/tushargupta97
